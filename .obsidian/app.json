@@ -1,0 +1,9 @@
+{
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "alwaysUpdateLinks": true
+}
