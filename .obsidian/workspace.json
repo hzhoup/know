@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a5cab2a574a8deb3",
+        "id": "6a5c7fc6273240b6",
         "type": "tabs",
         "children": [
           {
-            "id": "f5992c91df3800c0",
+            "id": "4e980e2b90ac7048",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI/AI-For-Beginners.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d90d1d1a4f8d5019",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI/AI-For-Beginners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI/AI-For-Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI/AI-For-Beginners.md"
+              }
             }
           }
         ]
@@ -139,7 +148,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5992c91df3800c0",
+  "active": "30566ad4f82b82c4",
   "lastOpenFiles": [
     "财经/清华大学-经济学原理.md",
     "财经/置身事内-中国政府与经济发展.md"
