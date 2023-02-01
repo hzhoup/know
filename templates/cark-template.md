@@ -1,11 +1,12 @@
 ---
 
 author: hzp
-created: <% tp.date.now("YYYY-MM-DD") %>
 aliases: <% tp.file.content %>
-description: 
 tags: 
 link: 
+description: 
+created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
+updated: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 
 ---
 
