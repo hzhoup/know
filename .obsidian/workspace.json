@@ -130,13 +130,21 @@
                 "file": "AI/AI-For-Beginners.md"
               }
             }
+          },
+          {
+            "id": "9a49286094b371cb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,7 +157,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53aa343dc9c5edef",
+  "active": "9a49286094b371cb",
   "lastOpenFiles": [
     "card/202302011345.md",
     "AI/AI-For-Beginners.md",
