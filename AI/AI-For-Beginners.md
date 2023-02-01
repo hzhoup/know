@@ -31,3 +31,4 @@ There are also some other possible approaches to intelligence:
 
 ### The Top-Down Approach
 
+In a top-down approach, we try to model our reasoning. Because we can follow our thoughts when we reason, we can try to formalize this process and program it inside the computer. This is called symbolic reasoning.
