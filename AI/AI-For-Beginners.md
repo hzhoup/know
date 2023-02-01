@@ -20,4 +20,14 @@ If we want a computer to behave like a human, we need somehow to model inside a 
 
 There are two possible approaches to this problem:
 
-| Top-down A
+| Top-down Approach (Symbolic Reasoning)                                                                                                                                                                                                            | Bottom-up Approach (Neural Networks)                                                                                                                                                                                                                                             |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A top-down approach models the way a person reasons to solve a problem. It involves extracting **knowledge** from a human being, and representing it in a computer-readable form. We also need to develop a way to model **reasoning** inside a computer. | A bottom-up approach models the structure of a human brain, consisting of huge number of simple units called **neurons**. Each neuron acts like a weighted average of its inputs, and we can train a network of neurons to solve useful problems by providing **training data**. |
+
+There are also some other possible approaches to intelligence:
+
+- -   An **Emergent**, **Synergetic** or **multi-agent approach** are based on the fact that complex intelligent behaviour can be obtained by an interaction of a large number of simple agents. According to evolutionary cybernetics, intelligence can _emerge_ from more simple, reactive behaviour in the process of _metasystem transition_.
+- -   An **Evolutionary approach**, or **genetic algorithm** is an optimization process based on the principles of evolution.
+
+### The Top-Down Approach
+
