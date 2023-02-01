@@ -11,8 +11,12 @@
             "id": "42a268216e0ebcd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "card/202302011335.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d90d1d1a4f8d5019",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "card/202302011335.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "card/202302011335.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "card/202302011335.md"
+              }
             }
           }
         ]
@@ -141,13 +150,13 @@
   },
   "active": "42a268216e0ebcd2",
   "lastOpenFiles": [
-    "card/202302011159.md",
+    "AI/AI-For-Beginners.md",
     "templates/cark-template.md",
+    "card/202302011159.md",
     "card/202302011158.md",
     "card/202302011156.md",
     "card/202302011153.md",
     "card/202302011152.md",
-    "AI/AI-For-Beginners.md",
     "财经/清华大学-经济学原理.md",
     "财经/置身事内-中国政府与经济发展.md"
   ]

@@ -6,5 +6,6 @@
     "en-US"
   ],
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showFrontmatter": true
 }
