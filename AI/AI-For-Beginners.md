@@ -12,4 +12,4 @@ The task of solving a specific human-like problem, can be called Weak AI, becaus
 
 ### The Definition of Intelligence and the Turing Test
 
-We cannot properly define Intelligence. When speaking about AGI we need to have some way to tell if we have created a truly intelligent system. Alan 
+We cannot properly define Intelligence. When speaking about AGI we need to have some way to tell if we have created a truly intelligent system. Alan Turing proposed a way called a Turing Test,
