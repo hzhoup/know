@@ -7,5 +7,6 @@
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "attachmentFolderPath": "assets"
 }

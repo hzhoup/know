@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "card/202302011345.md",
+                "file": "AI/AI-For-Beginners.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "card/202302011345.md",
+                "file": "AI/AI-For-Beginners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "card/202302011345.md",
+                "file": "AI/AI-For-Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "card/202302011345.md"
+                "file": "AI/AI-For-Beginners.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "53aa343dc9c5edef",
   "lastOpenFiles": [
-    "AI/AI-For-Beginners.md",
     "card/202302011345.md",
+    "AI/AI-For-Beginners.md",
     "templates/cark-template.md",
     "card/202302011344.md",
     "card/202302011335.md",
