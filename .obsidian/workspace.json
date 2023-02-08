@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab566ce1b256d5ab",
+            "id": "264c1705a0a7077f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs/深入理解计算机系统.md",
+                "file": "ant-design-vue3-pro/前期配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs/深入理解计算机系统.md",
+                "file": "ant-design-vue3-pro/前期配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs/深入理解计算机系统.md",
+                "file": "ant-design-vue3-pro/前期配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs/深入理解计算机系统.md"
+                "file": "ant-design-vue3-pro/前期配置.md"
               }
             }
           }
@@ -162,8 +162,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab566ce1b256d5ab",
+  "active": "264c1705a0a7077f",
   "lastOpenFiles": [
+    "cs/深入理解计算机系统.md",
     "AI/AI-For-Beginners.md",
     "templates/cark-template.md",
     "card/202302011345.md",
@@ -172,7 +173,6 @@
     "card/202302011159.md",
     "card/202302011158.md",
     "card/202302011156.md",
-    "card/202302011153.md",
-    "card/202302011152.md"
+    "card/202302011153.md"
   ]
 }
